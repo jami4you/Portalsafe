@@ -22,8 +22,7 @@ var cost_per_return = 4;
 var total_prnt_return = 0;
 var total_phyical_HC = 0.00;
 var total_annual_HC = 0.00;
-
-
+/*comment*/
 /*format Currency*/
 function formatCurrency(num,returnFloat) {
 	num = num.toString().replace(/\$|\,/g,'');
